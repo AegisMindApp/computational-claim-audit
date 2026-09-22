@@ -205,7 +205,8 @@ measured on a different axis from the one the intervention moves. Because the th
 every downstream call, this is never a fixable paragraph — it is the spine.
 
 **Our own case.** A manuscript comparing six protocol interventions was **desk-rejected without
-external review** on exactly this. Two "resolution limits" were used as the decision rule for
+external review** on exactly this. The venue is not named — the corrected manuscript is under
+active resubmission, and which journal caught it adds nothing. Two "resolution limits" were used as the decision rule for
 all six:
 
 - **0.020** was the disagreement between two *implementations* of a scoring function — that is

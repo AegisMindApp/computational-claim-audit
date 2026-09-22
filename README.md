@@ -30,7 +30,7 @@ Each case can be checked without asking us for anything.
 | Virtual-screening decomposition: docking's marginal value, the redocking gate, the receptor-repair work | [AegisMindApp/screening-decomposition](https://github.com/AegisMindApp/screening-decomposition) |
 | Collateral-sensitivity association dissolved by lineage stratification | [AegisMindApp/cs-lineage-confounding](https://github.com/AegisMindApp/cs-lineage-confounding) · bioRxiv [10.64898/2026.08.07.743632](https://doi.org/10.64898/2026.08.07.743632) |
 | Chemical short-range order on Co-Ni-V, both runs including the one that failed | [AegisMindApp/coniv-csro](https://github.com/AegisMindApp/coniv-csro) |
-| The circular-threshold manuscript, as submitted and as rejected | ChemRxiv [10.26434/chemrxiv.15008496/v2](https://doi.org/10.26434/chemrxiv.15008496/v2) |
+| The circular-threshold manuscript and its corrected pre-registrations | ChemRxiv [10.26434/chemrxiv.15008496/v2](https://doi.org/10.26434/chemrxiv.15008496/v2) |
 
 One limitation is stated rather than left to be discovered: the retrospective benchmark's
 pre-registration **freeze date** is attested, not independently verifiable, because the public

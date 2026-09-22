@@ -238,8 +238,9 @@ anything the manuscript used two resolution limits, 0.020 and 0.039.
 **The check:** for each threshold in the package, name the dataset it was derived from, and ask
 whether that dataset is the data being judged. Minutes.
 
-**Found**, by the executive editor of the *Journal of Chemical Information and Modeling*, who desk-
-rejected the manuscript without external review on 17 September 2026:
+**Found by a journal editor**, who desk-rejected the manuscript without external review. The
+venue is not named here: the corrected manuscript is under active resubmission, and which journal
+caught the defect adds nothing to the lesson.
 
 - **0.020** was the disagreement between two *implementations* of a scoring function —
   implementation variance, not the run-to-run reproducibility of an unchanged protocol.
